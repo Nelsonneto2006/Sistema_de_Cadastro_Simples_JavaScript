@@ -1,0 +1,1 @@
+Recentemente, desenvolvi um sistema de cadastro de pessoas em Node.js, executado no terminal. O programa coleta dados como nome, idade, CPF, telefone, e-mail e endereço, aplicando validações e formatações para garantir informações corretas. Após a validação, os dados são armazenados em um array, simulando um pequeno banco de dados.
